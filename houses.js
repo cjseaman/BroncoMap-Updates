@@ -6,6 +6,16 @@ var partyMap = {
 
 		houseInfoList: [
 			{
+				Name: 'Bermuda',
+				Address:'857 Bellomy Street',
+				Info: ' (Zeta Beta Tau)',
+				Org: 'ZBT',
+				Type: 'greek',
+				Latitude: 37.345947,
+				Longitude: -121.940326,
+			}
+			,
+			{
 				Name: 'Sandlot',
 				Address: '529 Lafayette Street',
 				Info: ' (Zeta Beta Tau)',
@@ -16,13 +26,13 @@ var partyMap = {
 			}
 			,
 			{
-				Name: 'Black Market',
-				Address: '1206 Market Street',
+				Name: 'Labryinth',
+				Address: '1147 Benton Street',
 				Info: ' (Zeta Beta Tau)',
 				Org: 'ZBT',
 				Type: 'greek',
-				Latitude: 37.345011,
-				Longitude: -121.944970,
+				Latitude: 37.350287,
+				Longitude: -121.946900,
 			}
 			,
 			{
@@ -36,21 +46,39 @@ var partyMap = {
 			}
 			,
 			{
-				Name: 'Zoo',
-				Address: '590 Lafayette Street',
-				Info: ' (Pi Kappa Alpha)',
-				Type: 'greek',
-				Latitude: 37.346208,
-				Longitude: -121.941446,
-			}
-			,
-			{
 				Name: 'Penthouse',
 				Address: '966 Bellomy Street',
 				Info: ' (Pi Kappa Alpha)',
 				Type: 'greek',
 				Latitude: 37.345100,
 				Longitude: -121.941460,
+			}
+			,
+			{
+				Name: 'Green',
+				Address: '536 Alviso Street',
+				Info: ' (Pi Kappa Alpha)',
+				Type: 'greek',
+				Latitude:  37.346406,
+				Longitude: -121.939602,
+			}
+			,
+			{
+				Name: 'IHOP',
+				Address: '575 Alviso Street',
+				Info: ' (Pi Kappa Alpha)',
+				Type: 'greek',
+				Latitude: 37.346792,
+				Longitude: -121.939432,
+			}
+			,
+			{
+				Name: 'Fish Bowl',
+				Address: '805 Bellomy Street',
+				Info: ' (Pi Kappa Alpha)',
+				Type: 'greek',
+				Latitude: 37.346203,
+				Longitude: -121.939505,
 			}
 			,
 			{
@@ -132,6 +160,15 @@ var partyMap = {
 				Type: 'greek',
 				Latitude: 37.345706,
 				Longitude: -121.941128,
+			}
+			,
+			{
+				Name: 'Zoo',
+				Address: '590 Lafayette Street',
+				Info: ' (Sigma Chi)',
+				Type: 'greek',
+				Latitude: 37.346208,
+				Longitude: -121.941446,
 			}
 			,
 			{
@@ -315,10 +352,19 @@ var partyMap = {
 			}
 			,
 			{
+				Name: 'Bamboo',
+				Address: '791 Fremont St',
+				Info: ' ',
+				Type: 'offcampus',
+				Latitude: 37.3529026,
+				Longitude: -121.9428399,
+			}
+			,
+			{
 				Name: 'Barn',
 				Address: '985 Market St',
-				Info: ' (Theta Chi)',
-				Type: 'greek',
+				Info: ' ',
+				Type: 'offcampus',
 				Latitude: 37.346395,
 				Longitude: -121.942050,
 			}
@@ -342,21 +388,21 @@ var partyMap = {
 			}
 			,
 			{
-				Name: 'Bermuda',
-				Address:'857 Bellomy Street',
-				Info: ' ',
-				Type: 'offcampus',
-				Latitude: 37.345947,
-				Longitude: -121.940326,
-			}
-			,
-			{
 				Name: 'Billboard',
 				Address:'750 Bellomy Street',
 				Info: ' ',
 				Type: 'offcampus',
 				Latitude: 37.346181,
 				Longitude: -121.938513,
+			}
+			,
+			{
+				Name: 'Black Market',
+				Address: '1206 Market Street',
+				Info: ' ',
+				Type: 'offcampus',
+				Latitude: 37.345011,
+				Longitude: -121.944970,
 			}
 			,
 			{
@@ -540,15 +586,6 @@ var partyMap = {
 			}
 			,
 			{
-				Name: 'Fish Bowl',
-				Address: '805 Bellomy Street',
-				Info: ' ',
-				Type: 'offcampus',
-				Latitude: 37.346203,
-				Longitude: -121.939505,
-			}
-			,
-			{
 				Name: 'Flamingo',
 				Address: '765 Locust Street',
 				Info: ' ',
@@ -564,24 +601,6 @@ var partyMap = {
 				Type: 'offcampus',
 				Latitude: 37.346106,
 				Longitude: -121.940041,
-			}
-			,
-			{
-				Name: 'Globe',
-				Address: '1147 Benton Street',
-				Info: ' ',
-				Type: 'offcampus',
-				Latitude: 37.350287,
-				Longitude: -121.946900,
-			}
-			,
-			{
-				Name: 'Green',
-				Address: '536 Alviso Street',
-				Info: ' ',
-				Type: 'greek',
-				Latitude:  37.346406,
-				Longitude: -121.939602,
 			}
 			,
 			{
@@ -646,15 +665,6 @@ var partyMap = {
 				Org: '',
 				Latitude: 37.344768,
 				Longitude: -121.945538,
-			}
-			,
-			{
-				Name: 'Ihop',
-				Address: '575 Alviso Street',
-				Info: ' ',
-				Type: 'offcampus',
-				Latitude: 37.346792,
-				Longitude: -121.939432,
 			}
 			,
 			{
