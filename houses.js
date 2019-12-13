@@ -767,10 +767,10 @@ var partyMap = {
 			}
 			,
 			{
-				Name: 'Pi Palace',
+				Name: 'Olympus',
 				Address: '986 Bellomy Street',
 				Info: ' ',
-				Type: 'greek',
+				Type: 'offcampus',
 				Latitude: 37.345014,
 				Longitude: -121.941644,
 			}
